@@ -1,6 +1,5 @@
 ## Opa! Eu sou o Nélio Gouvêa
-- 👀 Estou interessado em me tornar um Desenvolvedor FullStack
-- 🌱 Eu estou sempre aprendendo caminhando com minha faculdade e aprendendo atualmente JS por conta própria
+- 👀 Futuro Desenvolvedor FullStack
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 <div>
   <a href="https://github.com/NelioGouvea">
