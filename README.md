@@ -25,5 +25,7 @@
 <div> 
   <a href="https://instagram.com/nelio_gouvea" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nelioalvesgouvea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nelio-alves-gouv%C3%AAa-614bb720a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/nelio-alves-gouv%C3%AAa-614bb720a/](https://www.linkedin.com/in/n%C3%A9lio-alves-gouv%C3%AAa-neto-614bb720a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+   ![Snake animation](https://github.com/NelioGouvea/NelioGouvea/blob/output/github-contribution-grid-snake.svg)
 </div>
